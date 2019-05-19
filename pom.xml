@@ -13,9 +13,9 @@
   <url>http://www.example.com</url>
 
   <scm>
+    <connection>scm:git:https://github.com/miracle2138/testSCM.git</connection>
     <developerConnection>scm:git:https://github.com/miracle2138/testSCM.git</developerConnection>
-    <url>scm:git:https://github.com/miracle2138/testSCM.git</url>
-    <tag>staging</tag>
+    <url>https://github.com/miracle2138/testSCM</url>
   </scm>
 
   <dependencies>
