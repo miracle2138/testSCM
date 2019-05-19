@@ -15,6 +15,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/miracle2138/testSCM.git</developerConnection>
     <url>scm:git:https://github.com/miracle2138/testSCM.git</url>
+    <tag>staging</tag>
   </scm>
 
   <dependencies>
